@@ -1,5 +1,7 @@
 package com.palavecinofranco.market;
 
+import io.swagger.v3.oas.annotations.OpenAPIDefinition;
+import io.swagger.v3.oas.annotations.tags.Tag;
 import io.swagger.v3.oas.models.OpenAPI;
 import io.swagger.v3.oas.models.info.Info;
 import org.springframework.boot.SpringApplication;
@@ -22,4 +24,5 @@ public class MarketApplication {
 								.description("REST API with Spring Boot")
 				);
 	}
+
 }

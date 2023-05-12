@@ -1,7 +1,5 @@
 package com.palavecinofranco.market.domain.dto;
 
-import com.palavecinofranco.market.domain.dto.CategoryDTO;
-
 public class ProductDTO {
     private Long idProduct;
     private String name;
