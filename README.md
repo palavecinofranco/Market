@@ -10,8 +10,6 @@
 The project is based on the manipulation of a supermarket through customers, products and purchases. I used Java with Spring Boot, Hibernate, a MySQL database, and MapStruct. Finally, I documented my API with Springdoc-OpenAPI and deployed it in Google Cloud GCP.
 ## *Version 1.0.0:*
 
--Deploy to see! [![App](https://img.shields.io/badge/App-informational?style=for-the-badge&logo=github&logoColor=fff&color=23272d)](https://springgcp-386201.rj.r.appspot.com/palavecinofranco-market/api/swagger-ui/index.html)
-
 
 ## *Developed with:*
 
